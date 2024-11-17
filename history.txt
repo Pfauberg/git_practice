@@ -1,0 +1,4 @@
+    1  history -w
+    2  history
+    3  git status
+    4  history > history.txt
